@@ -47,4 +47,5 @@ addition,subtraction,multiplication,division through a simple command-line inter
 reliable execution
 This project helps in understanding fundamental programming concepts such as variables,functions,conditional statements,user input handling,and exception
 handling overall the simple caiculator serves as an excellent beginner level project and provides a strong foundation for developing more advanced python applications in the future
+<img width="1280" height="511" alt="image" src="https://github.com/user-attachments/assets/cfdf79a7-4e74-48ed-a4bd-d8554b0ae413" />
 
