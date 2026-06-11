@@ -8,15 +8,15 @@ the project helps users perform calculations quickly while demonstrating fundame
 ## TOOLS REQUIRED
 ## Programming language
 Python 3.x
-# developement environment
+# developement tools
 Visual studio code(vs code)
 pycharm
 IDLE(Python intergrated development and learning environment)
 Jupyter Notebooks(optional)
-## Libraries Used
+## libraries Used
 No external libraries required
 python  built-in functions only
-## System Requirements
+## system Requirements
 Python 3.x installed
 Any code editor or IDE for running python programs
 ## PURPOSE
