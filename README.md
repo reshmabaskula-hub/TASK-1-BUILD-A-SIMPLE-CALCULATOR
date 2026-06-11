@@ -8,7 +8,7 @@ the project helps users perform calculations quickly while demonstrating fundame
 ## TOOLS REQUIRED
 ## Programming language
 Python 3.x
-# Developement environment
+# developement environment
 Visual studio code(vs code)
 pycharm
 IDLE(Python intergrated development and learning environment)
